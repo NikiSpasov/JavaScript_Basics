@@ -1,2 +1,3 @@
 # JavaScript_Basics
-JavaScript Basics
+JavaScript Basics :)
+
